@@ -1,3 +1,4 @@
+//The id of every consumer should be 0f 9 digits and should start with a zero.
 // Data in comma seperated File
 0191919191,John,Chennai,650
 0191919192,Peter,Mumbai,1100
